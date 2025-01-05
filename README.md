@@ -1,6 +1,6 @@
 # Web Link Extractor
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue.svg)](https://www.typescriptlang.org/)  [![React](https://img.shields.io/badge/React-18.3-blue.svg)](https://reactjs.org/)  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-blue.svg)](https://tailwindcss.com/)  [![Vite](https://img.shields.io/badge/Vite-5.4-blue.svg)](https://vitejs.dev/)  [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)  [![Docker](https://img.shields.io/badge/Docker-Optional-blue.svg)](https://www.docker.com/)  [![Code Style](https://img.shields.io/badge/Code_Style-ESLint-4B32C3.svg)](https://eslint.org/)  [![Cheerio](https://img.shields.io/badge/Cheerio-1.0.0--rc.12-orange.svg)](https://cheerio.js.org/)
+ [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-blue.svg)](https://www.typescriptlang.org/)  [![React](https://img.shields.io/badge/React-18.3-blue.svg)](https://reactjs.org/)  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-blue.svg)](https://tailwindcss.com/)  [![Vite](https://img.shields.io/badge/Vite-5.4-blue.svg)](https://vitejs.dev/)  [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)  [![Docker](https://img.shields.io/badge/Docker-Optional-blue.svg)](https://www.docker.com/)  [![Code Style](https://img.shields.io/badge/Code_Style-ESLint-4B32C3.svg)](https://eslint.org/)  [![Cheerio](https://img.shields.io/badge/Cheerio-1.0.0--rc.12-orange.svg)](https://cheerio.js.org/)
 
 A modern web application for extracting, analyzing, and managing links from any website.
 
@@ -71,6 +71,10 @@ Ed Bates (TECHBLIP LLC)
 ## Acknowledgments
 
 Some sections of this code were generated with the assistance of AI tools.  These contributions were reviewed and integrated by the project creator(s).
+
+## TODO
+
+- **Fix domain name issue**: The app is returning "localhost" instead of the real domain name in some cases.
 
 ## License
 
