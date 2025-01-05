@@ -13,6 +13,8 @@ A modern web application for extracting, analyzing, and managing links from any 
 - Email sharing capability
 - Responsive design
 
+![Extraction](public/images/extraction.png)
+
 ## Quick Start
 
 ```bash
